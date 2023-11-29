@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-HaariscatzApplication<haariscatz>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.haaris.HaariscatzApplication",
+            "projectName": "haariscatz",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
